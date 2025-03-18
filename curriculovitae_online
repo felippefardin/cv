@@ -45,14 +45,25 @@
               <p class="w3-large">
                 <b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-indigo"></i>Skills</b>
               </p>
-              <p>LInguagem Javascript</p>
+              <p>Linguagem Javascript</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:40%">100%</div>
+                <!-- <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:40%">100%</div> -->
               </div>
               <p>Linguagem Go</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:40%">30%</div>
-             
+                <!-- <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:40%">30%</div> -->             
+              </div>
+              <p>Banco De Dados MySQL/SQL</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <!-- <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:40%">30%</div> -->             
+              </div>
+              <p>Linguagem PHP</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <!-- <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:40%">100%</div> -->
+              </div>
+              <p>Suporte Técnico</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <!-- <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:40%">100%</div> -->
               </div>
               <br>
   
@@ -61,15 +72,15 @@
               </p>
               <p>Português</p>
               <div class="w3-light-grey w3-round-xlarge">
-                <div class="w3-round-xlarge w3-indigo" style="height:24px;width:100%">100%</div>
+                <div class="w3-round-xlarge w3-indigo" style="height:24px;width:100%">Fluente</div>
               </div>
               <p>Ingês</p>
               <div class="w3-light-grey w3-round-xlarge">
-                <div class="w3-round-xlarge w3-indigo" style="height:24px;width:70%">70%</div>
+                <div class="w3-round-xlarge w3-indigo" style="height:24px;width:70%">INTERMÉDIARIO</div>
               </div>
               <p>Espanhol</p>
               <div class="w3-light-grey w3-round-xlarge">
-                <div class="w3-round-xlarge w3-indigo" style="height:24px;width:50%">40%</div>
+                <div class="w3-round-xlarge w3-indigo" style="height:24px;width:50%">BÁSICO</div>
               </div>
               <br>
             </div>
@@ -83,15 +94,20 @@
     
           <div class="w3-container w3-card w3-white w3-margin-bottom">
             <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-terminal fa-fw w3-margin-right w3-xxlarge w3-text-indigo"></i>Sobre</h2>
-            <p>Procuro oportunidade de trabalho que possa trazer novos caminhos e crescimento unindo aos
-              meus estudos da minha formação. Quero desenvolver minhas habilidades e também agregar
-              para o sucesso da empresa.</p>
+            <p>Sempre em busca oportunidades que possam trazer novos caminhos e crescimento unindo aos meus estudos da minha formação. 
+            Quero desenvolver minhas habilidades e também agregar para o sucesso da empresa.</p>
           </div>
 
           <div class="w3-container w3-card w3-white w3-margin-bottom">
             <h2 class="w3-text-grey w3-padding-16">
               <i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-indigo"></i>Experiências
             </h2>
+            <div class="w3-container">
+                <h5 class="w3-opacity"><b>Prefeitura Municipal Da Serra</b></h5>
+                <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i> Inicio: 05/2024 || <span class="w3-tag w3-indigo w3-round">Atual</span><span class="w3-tag w3-indigo w3-round"></span></h6>
+                <p>Estágiário do setor de tecnologia e inovação.</p>
+                <hr>
+              </div>
             <div class="w3-container">
               <h5 class="w3-opacity"><b>Fardin Móveis</b></h5>
               <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i> Inicio: 08/2013 || Final: 11/2020 <span class="w3-tag w3-indigo w3-round"></span></h6>
@@ -122,7 +138,7 @@
             </h2>
             <div class="w3-container">
               <h5 class="w3-opacity"><b>Digital Innovation One (DIO)</b></h5>
-              <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>INICIO - <span class="w3-tag w3-indigo w3-round">Atual</span></h6>
+              <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>INICIO - <span class="w3-tag w3-indigo w3-round">FINALIZADO</span></h6>
               <p>
                 Maior plataforma de educação aberta em TI da América Latina, com mais 1 milhão de usuários. 
                 A DIO possui parcerias com algumas das empresas mais inovadoras do mundo, proporcionando experiências 
@@ -135,7 +151,7 @@
             </div>
             <div class="w3-container">
               <h5 class="w3-opacity"><b>Universidade de Vila Velha (UVV)</b></h5>
-              <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Abril/2023- Formação prevista para Julho/2025</h6>
+              <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Abril/2023- Formação prevista para AGOSTO/2025</h6>
               <p>Análise e desenvolvimento de sistemas</p>
             </div>
           </div>
@@ -149,7 +165,7 @@
                 <i class="fa fa-github fa-fw w3-margin-right"></i>
                 <a href="https://github.com/felippefardin/projeto_calculadora.git" target="_blank">USUARIO_GITHUB/REPO</a>
               </h6>
-              <p>Calculadora multifuncional e prática para agilizar na hora de fazer suas contas.</p>
+              <p>Veja todos meus projetos através do meu GITHUB</p>
               <hr>
             </div>            
           </div>
@@ -168,7 +184,7 @@
       <a href="https://github.com/felippefardin" target="_blank"><i class="fa fa-github w3-hover-opacity"></i></a>
       <a href="https://www.linkedin.com/in/felippefardin/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
       <a href="https://www.instagram.com/felippefardin/" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
-      <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+      <!-- <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p> -->
     </footer>
   
   </body>
